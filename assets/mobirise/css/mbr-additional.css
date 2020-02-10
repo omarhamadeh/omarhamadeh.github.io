@@ -2542,6 +2542,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rQ3nwS88I7 {
+  background: #000000;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-rQ3nwS88I7 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rQ3nwS88I7 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rPLY3JA2ZW {
   background: #232323;
   padding-top: 60px;
